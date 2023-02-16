@@ -4,9 +4,11 @@
 }
 .item1{
 	background:red;
+	order:1;
 }
 .item2{
 	background:blue;
+	order:1;
 }
 .item3{
 	background:green;
@@ -16,4 +18,5 @@
 .holder{
 	display:flex;
 	justify-content:space-between;
+	flex-shrink:0;
 }
