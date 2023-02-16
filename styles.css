@@ -13,7 +13,7 @@
 	order:-1;
 }
 
-.box{
+.holder{
 	display:flex;
 	justify-content:space-between;
 }
